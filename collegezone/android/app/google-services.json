@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "902862934461",
+    "project_id": "miniproject-a3032",
+    "storage_bucket": "miniproject-a3032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902862934461:android:deb270b7903b23b9e482d4",
+        "android_client_info": {
+          "package_name": "com.example.chatapp_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwQjdrUVkzYFEmCsjq3FIfAkLpx9N2kwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902862934461:android:a9d93168de334887e482d4",
+        "android_client_info": {
+          "package_name": "com.harshRajpurohit.we_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwQjdrUVkzYFEmCsjq3FIfAkLpx9N2kwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
